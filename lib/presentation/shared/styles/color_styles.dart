@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const kCardColor = Color.fromRGBO(255, 255, 255, 0.1);
+const kChipColor = Color.fromRGBO(31, 31, 31, 1);
+const kBlackColor = Color(0xFF13141d);
+const kWhiteColor = Colors.white;
+const kDarkBlueColor = Color(0xff0B1621);
+const kBlueLightColor = Color(0xff8AD4DD);
+const kPurpleColor = Color(0xff341F4A);
+const kPurpleLightColor = Color(0xffBF67FF);
+const kBlueColor = Color(0xff2393FA);
+const kGreenColor = Color(0xFF90C63E);
+const kRedColor = Color(0xFFFA3353);
+const kYellowColor = Color(0xFFe8e623);
+const kPinkColor = Color(0xFFff67aa);
+const kCoralColor = Color(0xFFF46F6F);
+const kOrangeColor = Color(0xFFf69f2f);
+const kGrayColor = Color.fromRGBO(102, 102, 102, 1);
+const kWhiteTextFieldColor = Color.fromRGBO(240, 240, 240, 1);
+const kHeadline6Color = Color.fromRGBO(255, 255, 255, 0.6);
+const kSearchBarBorderColor = Color.fromRGBO(147, 143, 153, 1);
