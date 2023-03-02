@@ -1,16 +1,10 @@
-# flutter_rive
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flutter Rive
+The animation of the avatar using Flutter + Rive + ML Kit.
+## Libraries
+- For .riv animation implementations, rive.
+- For state handling with flutter_riverpod.
+- For face detection, google_mlkit_face_detection.
+- For the camera, the package camera.
+## How does it work?
+Check the medium post for more information
+https://medium.com/p/337f05d59692/edit
